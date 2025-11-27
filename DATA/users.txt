@@ -1,0 +1,4 @@
+username,password_hash,role
+linah,$2b$12$HClmFg950afaQNvZmqo6SOIPGnkATV5otIQ4anoDzpPLHJcwoEmwO,student
+alice,$2b$12$/v9dFLdhftaDPtYK/xZu5.AvwwdC952sjMOBgxs9sEU3AXJmPESke,data scientist
+bob,$2b$12$U7UK.x6Ew/trQEwAyW8Gcuuv670lhCPqcdtlK1gQg49H4ZtbyRYpO,user

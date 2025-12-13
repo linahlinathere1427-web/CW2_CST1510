@@ -2,7 +2,7 @@
 
 **Student Name:** Linah Fathima
 **Student ID:** M01086284
-**Course:** CST1510 – CW2 – Multi-Domain Intelligence Platform
+**Course:** CST1510 – CW2 – Programming for data communication and networks
 
 ---
 
@@ -343,3 +343,4 @@ This refactor improves code modularity, maintainability, and scalability by enca
 - **Streamlit UI**: Uses instances of classes for displaying data and handling user interactions
 - **Error Handling**: Centralized in methods for validation and API calls
 - **File Structure**:
+

@@ -295,8 +295,8 @@ This system allows users to ask questions to AI assistants in multiple domains (
 
 ---
 # Week 11: Project Refactor to Object-Oriented Programming (OOP)
-Student Name: [Your Name]  
-Student ID: [Your Student_ID]  
+Student Name: linah fathima  
+Student ID: M01086284
 Course: CST1510 - CW2 - Multi-Domain Intelligence Platform
 
 ## Project Description
